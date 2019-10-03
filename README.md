@@ -1,2 +1,2 @@
-# djinn
-Game Programming
+# Djinn
+GameMaker Programming
